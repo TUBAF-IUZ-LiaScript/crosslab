@@ -11,7 +11,7 @@ comment:  This is the first update for colleagues.
 icon: https://upload.wikimedia.org/wikipedia/commons/2/28/Logo_TU_Freiberg.svg
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IUZ-LiaScript/crosslab/blob/main/Project_update_1.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IUZ-LiaScript/crosslab/main/Project_update_1.md)
 
 # CrossLab Project interim report
 
