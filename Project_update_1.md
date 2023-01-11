@@ -13,22 +13,19 @@ icon: https://upload.wikimedia.org/wikipedia/commons/2/28/Logo_TU_Freiberg.svg
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IUZ-LiaScript/crosslab/main/Project_update_1.md)
 
-# CrossLab Project interim report
+# CrossLab taster
 
 ??[home page](https://cross-lab.org/)
 
-## Definition
+## Remote labs
 
-A **remote lab** can be:
+    {{0-1}}
+> - a simulation
+> - a virtual environment
+> - a physical laboratory that can be operated remotely
 
     {{1-2}}
-![3d printer](https://cdn.shopify.com/s/files/1/0637/7517/8972/products/Tronxy-VEHO-3D-Printer-02.jpg?v=1668672953)
-
-    {{1}}
-a physical laboratory that can be operated remotely
-
-    {{2}}
-a virtual environment
+![simulation](https://www.physikinstrumente.de/fileadmin/_processed_/1/1/csm_Physik-Instrumente-PIVirtualMove_509bf01095.jpg)
 
     {{2-3}}
 ??[library](https://sketchfab.com/3d-models/medieval-library-model-pack-low-poly-3d-model-3e54dac0803c4bf282fcfa7aad1e3d9b)
@@ -37,29 +34,56 @@ a virtual environment
 ??[crane](https://sketchfab.com/3d-models/tower-crane-c3e832c886be447a843d8285566b6cda)
 
     {{4}}
-a simulation
+![3d printer](https://cdn.shopify.com/s/files/1/0637/7517/8972/products/Tronxy-VEHO-3D-Printer-02.jpg?v=1668672953)
 
-    {{4-5}}
-![3d head](https://www.physikinstrumente.de/fileadmin/_processed_/1/1/csm_Physik-Instrumente-PIVirtualMove_509bf01095.jpg)
+## Aims of consortium
 
-## Goals
+    {{1-2}}
+> The CrossLab project aims to define the **technical**, **didactic** and **organizational** solutions for open digital laboratory objects, which can be combined as required in a learning environment for student-centered teaching and learning.
 
-    {{1}}
-> ... the CrossLab project aims to define the technical, didactic and organizational solutions for open digital laboratory objects, which can be combined as required in a learning environment for student-centered teaching.
-
-    {{2}}
-> The cross in the project name stands for the interlinking of different laboratory components, media realities, as well as a cross-disciplinary and cross-university network.
-
-    {{3}}
-> In addition to the conception and implementation of a technical implementation (configuration and linking of the individual laboratory objects) and new applications in various disciplines (physics, chemistry, computer science, mechanical engineering and process engineering), the didactic concepts are further developed in order to ensure a maximum of broad integration into other subjects can.
-
-    {{0-1}}
+    {{2-3}}
 ![figure 3](https://media.springernature.com/full/springer-static/image/chp%3A10.1007%2F978-3-658-32849-8_31/MediaObjects/493946_1_De_31_Fig3_HTML.png?as=webp)
 
-## Status
+    {{3-4}}
+> The cross in the project name stands for the interlinking of different laboratory components, media realities, as well as a cross-disciplinary and cross-university network.
+
+    {{4}}
+> The individual laboratory objects cover various disciplines
+>
+> - physics
+> - chemistry
+> - computer science
+> - mechanical engineering
+> - process engineering
+
+
+## Question for IUZ/Sprachen
+
+??[etherpad](https://riot.hrz.tu-freiberg.de/pad/p/crosslab_ideas)
+
+## Progress
+
+### A simulation and microcontroller
 
 ??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/Mr-Nair/Hiwi-Arduino/main/README.md#1)
 
-## Plans
+### LED strip
+
+!?[strip](/images/Snapchat-788137995.mp4)
+
+## Planned implementation
+
+1. Faculties 1 & 2 LED strip (3 sessions)
+
+- Discussion
+- Vocabulary work
+- Programming
+- Video presentation
+
+2. Faculty 2 (next time)
+
+- simulation
 
 ## Transferability
+
+??[etherpad](https://riot.hrz.tu-freiberg.de/pad/p/crosslab_ideas)
