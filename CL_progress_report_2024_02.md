@@ -5,7 +5,7 @@ version:  0.1.0
 language: en
 narrator: US English Female
 
-comment:  This is the first update for colleagues.
+comment:  This is the second update for colleagues.
           Please let me know if you need more info.
 
 icon: https://upload.wikimedia.org/wikipedia/commons/2/28/Logo_TU_Freiberg.svg
@@ -14,21 +14,21 @@ import: https://raw.githubusercontent.com/liaScript/mermaid_template/master/READ
 
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IUZ-LiaScript/crosslab/main/CL_progress_report_2023_01.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IUZ-LiaScript/crosslab/main/CL_progress_report_2023_02.md)
 
-# Progress Report 1
+# Progress Report 2
 
-    {{0}}
+    {{0-1}}
 > **Author:** Dr. Mark Jacob, IUZ/Languages, TU Bergakademie Freiberg
 >
-> **Date:** January 19, 2023
+> **Date:** February 22, 2024
 >
 > **Project:** CrossLab
 > This report will provide a brief overview of the **CrossLab consortium project** (hereafter referred to as the **project**).
 >
->> **Subproject:** Integration of Remote Labs into English for Specific Purposes Language Courses for students of STEM (science, technology, engineering and mathematics) at institutions of Higher Education (hereafter referred to as the **subproject**). The status of the subproject will be reviewed, covering details on work completed, work in progress and work remaining.
+>> **Subproject:** Integration of Remote Labs into English for Specific Purposes Language Courses for students of STEM (science, technology, engineering and mathematics) at institutions of Higher Education (hereafter referred to as the **subproject**). The updated status of the subproject will be reviewed, covering details on work completed, work in progress and work remaining.
 
-    {{1}}
+   {{1}}
 ```mermaid @mermaid
 flowchart TB
     CL((CrossLab)):::yellow
@@ -36,15 +36,26 @@ flowchart TB
     classDef green fill:#5c0,stroke:#000,stroke-width:2px
     classDef blue fill:#6ce,stroke:#000,stroke-width:2px
 	classDef yellow fill:#ff0,stroke:#000,stroke-width:2px
-	CL-->A(Didaktik)
-	CL-->B(Technik)
+	CL-->A(Teaching)
+	CL-->B(Technology)
 	CL-->C(Organisation)
-    A:::blue-->D(1.Remote Labore zum forschenden Lernen nutzen<br>2.Remote Labore als Ergänzung verstehen<br>3.Bildung und Weiterbildung)
-    B:::orange-->E(1.Etablierte Software Lösungen nutzen<br>2.LMS Einbindung ermöglichen<br>3.Zuverlässigkeit erhöhen)
-	C:::green-->F(1.Verstetigung von Remote Laboren<br>2.Plattform für Remote Labore<br>3.Angebot vergrößern<br>4.Internationale Vernetzung)
+    A:::blue-->|Consortium project|D(1.Using remote labs for inquiry-based learning<br>2.Understanding remote labs as complementary<br>3.Training and Educating)
+    B:::orange-->|Consortium project|E(1.Using established software solutions<br>2.Enabling LMS integration<br>3.Enhancing reliability)
+	C:::green-->|Consortium project|F(1.Providing a platform for remote labs<br>2.Expanding the range on offer<br>3.Networking internationally)
 	D:::blue
     E:::orange
 	F:::green
+    D-->|IUZ subproject|G:::blue
+    E-->|IUZ subproject|H:::orange
+    F-->|IUZ subproject|I:::green
+    G(1.Microcontroller and LED strip project<br>2.Professional skills for computer scientists<br>3.Invitation to D2C2 Werkstatt- und Laborpause)
+    H(1.Edrys and C#<br>2.LiaScript in OPAL<br>3.Remote and semi-remote solutions)
+    I(1.remote-labs.org<br>2.LED strip -> LED cube<br>3.IUGB Cote d'Ivoire)
+    P:::yellow
+    P(Perpetuating<br>remote labs)
+    G-->P
+    H-->P
+    I-->P
 ```
 
 ## **Overview**
@@ -54,6 +65,7 @@ flowchart TB
 >
 > -   start date of project: August 1, 2021
 > -   end date of project: July 31, 2024
+> -   extension of project: December 31, 2025
 > -   Universties involved:
 >
 >  - TU Bergakademie Freiberg (Lead partner)
@@ -67,6 +79,7 @@ flowchart TB
 >>
 >> -   start date of subproject: February 15, 2022
 >> -   end date of subproject: July 31, 2024
+>> -   extension of subproject: December 31, 2025
 >> -   Departments involved (TUBAF unless otherwise stated):
 >>
 >>  - IUZ/ Languages (Lead partner)
@@ -75,6 +88,7 @@ flowchart TB
 >>  - Department of Didactics, TU Dortmund
 >>
 >> -   Funded by Stiftung Innovation in der Hochschullehre (0.5 *Wissenschaftlicher Mitarbeiter* Research Associate)
+
 
     {{1-2}}
 > **Project Purpose**
@@ -118,42 +132,19 @@ flowchart TB
     {{0-1}}
 >> **Work Completed**
 >>
->> Thus far the hardware (traffic lights controlled by a microcontroller board) and software necessary to test out the concept of using a remote lab in English lessons have been constructed:
+>> Year 1
+>>
+>> Year 2
 
     {{1-2}}
-??[Traffic Lights](https://liascript.github.io/course/?https://raw.githubusercontent.com/Mr-Nair/Hiwi-Arduino/main/README.md#8)
+>> **Work in Progress**
 
     {{2-3}}
->> The hardware to be used in the implementation of the remote lab (LED strip controlled by microcontroller board) has been constructed:
+>> **Work Remaining**
 
     {{3-4}}
-!?[LED Strip](/images/Snapchat-788137995.mp4)
+>> **Plan for extension**
 
-    {{4-5}}
->> **Work in Progress**
->>
->> 1. Lesson plans for the implementations are being prepared.
->> 2. A concept for using images, videos, simulations and remote labs in language courses in general and in particular in English for Specific Purposes courses for students of STEM subjects in the context of Higher Education is being formulated. The advantages and disadvantages of using the above-mentioned media and materials and the benefits of using simulations and remote labs over images and videos can have and at what cost are being considered.
->> 3. The code for the simulation of the LED strip is being written by the student assistant.
 
-    {{5-6}}
->> **Work Remaining**
->>
->> The main task here is the implementation of the remote lab integration in the summer semester of 2023.
->>
->> **Implementation in Groups 1 and 2**
->>
->> Session 1: Preparatory lesson on microcontrollers, how they work, what they consist of and how they can be used in applications. Students have already covered this this topic in lectures and practicals in German. Students will have an opportunity to share experiences they have had working with and writing code for microcontrollers, in particular the Arduino.
->>
->> Session 2: Discussion of possibilities for programming an LED strip, followed by trying out the simulation of the LED strip. Familiarisation with the code for programming the LED strip and then writing a short description of what will be programmed. Homework - to write the code to program the LED strip.
->>
->> Session 3: in groups, show each other the simulations and describe what was done, including any difficulties that may have been overcome or changes of plan due to not managing to convert the plans into code. By the end of the session, students should have written a commentary that lasts about the length of the simulation (3 minutes). Homework - to run the code on the hardware (remote laboratory) and record audio commentary to go with the video.
->>
->> Students submit their videos as coursework (uploaded to OPAL). Deadline for this is 2 weeks.
->>
->> Possible Session 4: Clear up any technical or other issues students may have had recrding video or audio or editing and submitting the final product.
->>
->> **Implementation in Group 3**
->>
->> To be planned in February/March 2023
+
 
