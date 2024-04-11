@@ -12,7 +12,7 @@ link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
-icon: https://upload.wikimedia.org/wikipedia/commons/2/28/Logo_TU_Freiberg.svg
+icon: https://upload.wikimedia.org/wikipedia/commons/e/e8/TUBAF_Logo.svg
 
 translation: Français translations/French.md
 -->
