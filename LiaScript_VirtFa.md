@@ -62,6 +62,10 @@ Language Centre (student presentations):
 Language Centre (student projects):
 ??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IUZ-LiaScript/ENGLISH-ROB-BGIP/main/Arduino-projects/main.md#3)
 
+    {{4-5}}
+Language Centre (lecture interaction):
+https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/Negotiation/main/git/TLON_Lecture_10.md#4
+
 ## How is LiaScript used in teaching and learning worldwide?
 
     {{0-1}}
@@ -94,6 +98,7 @@ https://github.com/arcus/education_modules
 >   - Recycling - own content or from others
 >   - Multilingual - Google or hard copy
 >   - AI compatible . ChatGPT generates text
+>   - OPAL compatible - embedded or linked
 
 > - **Content (not only!) consumers**
 >
