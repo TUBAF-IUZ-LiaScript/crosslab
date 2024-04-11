@@ -12,8 +12,12 @@ link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
+icon: https://upload.wikimedia.org/wikipedia/commons/2/28/Logo_TU_Freiberg.svg
+
 translation: Français translations/French.md
 -->
+
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IUZ-LiaScript/crosslab/main/LiaScript_VirtFa.md)
 
 # Using LiaScript in digital teaching and learning
 
