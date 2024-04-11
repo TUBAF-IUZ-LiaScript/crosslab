@@ -47,45 +47,35 @@ translation: Français translations/French.md
 ## How is LiaScript used in teaching and learning at TUBAF?
 
     {{0-1}}
-Computer Science (course material):
 https://github.com/TUBAF-IfI-LiaScript
 
     {{1-2}}
-Faculty 2:
 https://github.com/CFFreiberg/Struktur-der-Materie
 
     {{2-3}}
-Language Centre (student presentations):
 ??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/BerndSchmecka/lia-presentation/main/presentation.md#5)
 
     {{3-4}}
-Language Centre (student projects):
 ??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IUZ-LiaScript/ENGLISH-ROB-BGIP/main/Arduino-projects/main.md#3)
 
     {{4-5}}
-Language Centre (lecture interaction):
 https://liascript.github.io/course/?https://raw.githubusercontent.com/markjjacob/Negotiation/main/git/TLON_Lecture_10.md#4
 
 ## How is LiaScript used in teaching and learning worldwide?
 
     {{0-1}}
-Universities in Saxony:
 ??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/HerbertSchletter/elementarkurs-exphy/main/uebung.md#1)
 
     {{1-2}}
-Schools:
 ??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/diekinderwelt/liascript/main/UR_Physik_Version%20Smartboard)
 
     {{2-3}}
-Schools:
 ??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/JMueller-edu/LiaScriptKurse/main/SportBGE12SJ2324.md)
 
     {{3-4}}
-Projects:
 ??[](https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Energy/EFZN_rdm/main/README.md#1)
 
     {{4-5}}
-Training programs:
 https://github.com/arcus/education_modules
 
 
